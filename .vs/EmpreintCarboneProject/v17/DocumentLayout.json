@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD74961B-C8E5-4638-8AD1-466895FA3749}|EmpreintCarbone.Application\\EmpreintCarbone.Application.csproj|c:\\users\\pc\\desktop\\empreintcarboneproject\\empreintcarbone.application\\helpers\\emissioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD74961B-C8E5-4638-8AD1-466895FA3749}|EmpreintCarbone.Application\\EmpreintCarbone.Application.csproj|solutionrelative:empreintcarbone.application\\helpers\\emissioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0057AAE-9515-478C-A48D-5ECF43502B98}|EmpreintCarbone\\EmpreintCarbone.API.csproj|c:\\users\\pc\\desktop\\empreintcarboneproject\\empreintcarbone\\controllers\\wastedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0057AAE-9515-478C-A48D-5ECF43502B98}|EmpreintCarbone\\EmpreintCarbone.API.csproj|solutionrelative:empreintcarbone\\controllers\\wastedatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD74961B-C8E5-4638-8AD1-466895FA3749}|EmpreintCarbone.Application\\EmpreintCarbone.Application.csproj|c:\\users\\pc\\desktop\\empreintcarboneproject\\empreintcarbone.application\\services\\packagingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD74961B-C8E5-4638-8AD1-466895FA3749}|EmpreintCarbone.Application\\EmpreintCarbone.Application.csproj|solutionrelative:empreintcarbone.application\\services\\packagingdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD74961B-C8E5-4638-8AD1-466895FA3749}|EmpreintCarbone.Application\\EmpreintCarbone.Application.csproj|c:\\users\\pc\\desktop\\empreintcarboneproject\\empreintcarbone.application\\dtos\\packagingdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD74961B-C8E5-4638-8AD1-466895FA3749}|EmpreintCarbone.Application\\EmpreintCarbone.Application.csproj|solutionrelative:empreintcarbone.application\\dtos\\packagingdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22283C8-883A-4FB4-A796-19B94FD2BBAE}|EmpreintCarbone.Domain\\EmpreintCarbone.Domain.csproj|c:\\users\\pc\\desktop\\empreintcarboneproject\\empreintcarbone.domain\\entities\\packagingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22283C8-883A-4FB4-A796-19B94FD2BBAE}|EmpreintCarbone.Domain\\EmpreintCarbone.Domain.csproj|solutionrelative:empreintcarbone.domain\\entities\\packagingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WasteDataController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone\\Controllers\\WasteDataController.cs",
+              "RelativeDocumentMoniker": "EmpreintCarbone\\Controllers\\WasteDataController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone\\Controllers\\WasteDataController.cs",
+              "RelativeToolTip": "EmpreintCarbone\\Controllers\\WasteDataController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:25:10.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmissionCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Application\\Helpers\\EmissionCalculator.cs",
+              "RelativeDocumentMoniker": "EmpreintCarbone.Application\\Helpers\\EmissionCalculator.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Application\\Helpers\\EmissionCalculator.cs",
+              "RelativeToolTip": "EmpreintCarbone.Application\\Helpers\\EmissionCalculator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:47:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PackagingDataService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Application\\Services\\PackagingDataService.cs",
+              "RelativeDocumentMoniker": "EmpreintCarbone.Application\\Services\\PackagingDataService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Application\\Services\\PackagingDataService.cs",
+              "RelativeToolTip": "EmpreintCarbone.Application\\Services\\PackagingDataService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:29:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PackagingDataDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Application\\DTOs\\PackagingDataDto.cs",
+              "RelativeDocumentMoniker": "EmpreintCarbone.Application\\DTOs\\PackagingDataDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Application\\DTOs\\PackagingDataDto.cs",
+              "RelativeToolTip": "EmpreintCarbone.Application\\DTOs\\PackagingDataDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:03:43.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackagingData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Domain\\Entities\\PackagingData.cs",
+              "RelativeDocumentMoniker": "EmpreintCarbone.Domain\\Entities\\PackagingData.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\EmpreintCarboneProject\\EmpreintCarbone.Domain\\Entities\\PackagingData.cs",
+              "RelativeToolTip": "EmpreintCarbone.Domain\\Entities\\PackagingData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:40:39.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
