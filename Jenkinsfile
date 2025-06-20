@@ -1,10 +1,9 @@
 pipeline {
   agent any
-
   stages {
     stage('Checkout') {
       steps {
-        git 'https://github.com/olfagaidi/BackendEmpreinteCarbone.git'
+        git(url: 'https://github.com/olfagaidi/BackendEmpreinteCarbone.git', branch: 'main', credentialsId: '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', poll: true, changelog: true)
       }
     }
 
@@ -19,5 +18,6 @@ pipeline {
         sh 'docker run -d -p 5000:80 empreinte-backend'
       }
     }
+
   }
 }
